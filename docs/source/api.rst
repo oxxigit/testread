@@ -1,14 +1,10 @@
-API
-===
+Usage
+=====
 
-.. autosummary::
-   :toctree: generated
+.. _installation:
 
+Installation
+------------
 
-   Test12334
+To use Lumache, first install it using pip:
 
-   lumache
-   
-   Testo di prova che non si vede
-   
-   
