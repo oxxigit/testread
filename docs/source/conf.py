@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Progetto di prova OXXI'
+copyright = '2022, OXXI'
+author = 'Stefano Manto'
 
 release = '0.1'
 version = '0.1.0'
