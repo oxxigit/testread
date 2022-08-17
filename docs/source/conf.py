@@ -4,7 +4,7 @@
 
 project = 'Progetto di prova OXXI'
 copyright = '2022, OXXI'
-author = 'Stefano Manto'
+author = 'Stefano M.'
 
 release = '0.2'
 version = '0.2.0'
