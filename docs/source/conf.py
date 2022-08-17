@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Progetto di prova OXXI'
-copyright = '2022, OXXI'
+copyright = '2021, OXXI'
 author = 'Stefano M.'
 
 release = '0.2'
